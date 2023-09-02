@@ -2,7 +2,7 @@ package az.atlacademy.app;
 
 import java.util.Scanner;
 
-public class ExamTextD {
+public class ExamTestD {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int length = scan.nextInt();
